@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=A1 NewDesignator=P5
+Added Pin To Net: NetName=5V Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=AGND Pin=P5-2
+Added Pin To Net: NetName=AGND Pin=P5-3
+Added Pin To Net: NetName=AGND Pin=P5-4
+Added Pin To Net: NetName=AGND Pin=P5-5
+Added Pin To Net: NetName=AGND Pin=U1-15
+Added Net: Name=AGND
+Added Pin To Net: NetName=ANT Pin=P5-1
+Added Pin To Net: NetName=ANT Pin=U1-16
+Added Net: Name=ANT

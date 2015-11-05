@@ -1,0 +1,91 @@
+Added Component: Designator=C1(3216C)
+Added Component: Designator=C2(3216C)
+Added Component: Designator=C3(0603)
+Added Component: Designator=C4(0603)
+Added Component: Designator=C5(3216C)
+Added Component: Designator=C6(0603)
+Added Component: Designator=P1(HDR1X10)
+Added Component: Designator=P2(HDR1X8)
+Added Component: Designator=P3(HDR1X6)
+Added Component: Designator=P4(HDR1X8)
+Added Component: Designator=U1(HDR1X10)
+Added Pin To Net: NetName=0RX Pin=P2-1
+Added Net: Name=0RX
+Added Pin To Net: NetName=1TX Pin=P2-2
+Added Net: Name=1TX
+Added Pin To Net: NetName=2 Pin=P2-3
+Added Net: Name=2
+Added Pin To Net: NetName=3.3V Pin=C5-1
+Added Pin To Net: NetName=3.3V Pin=C6-1
+Added Pin To Net: NetName=3.3V Pin=P4-5
+Added Net: Name=3.3V
+Added Pin To Net: NetName=4 Pin=P2-5
+Added Net: Name=4
+Added Pin To Net: NetName=5V Pin=C1-1
+Added Pin To Net: NetName=5V Pin=C2-1
+Added Pin To Net: NetName=5V Pin=C3-1
+Added Pin To Net: NetName=5V Pin=C4-1
+Added Pin To Net: NetName=5V Pin=P4-4
+Added Net: Name=5V
+Added Pin To Net: NetName=7 Pin=P2-8
+Added Pin To Net: NetName=7 Pin=U1-5
+Added Net: Name=7
+Added Pin To Net: NetName=8 Pin=P1-1
+Added Pin To Net: NetName=8 Pin=U1-7
+Added Net: Name=8
+Added Pin To Net: NetName=12 Pin=P1-5
+Added Net: Name=12
+Added Pin To Net: NetName=13 Pin=P1-6
+Added Pin To Net: NetName=13 Pin=U1-9
+Added Net: Name=13
+Added Pin To Net: NetName=A0 Pin=P3-6
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=P3-5
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=P3-4
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=P3-3
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=P3-2
+Added Net: Name=A4
+Added Pin To Net: NetName=A5 Pin=P3-1
+Added Net: Name=A5
+Added Pin To Net: NetName=AREF Pin=P1-8
+Added Pin To Net: NetName=AREF Pin=P4-8
+Added Net: Name=AREF
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=P1-7
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P4-3
+Added Net: Name=GND
+Added Pin To Net: NetName=IOREF Pin=P4-7
+Added Net: Name=IOREF
+Added Pin To Net: NetName=RESET Pin=P4-6
+Added Net: Name=RESET
+Added Pin To Net: NetName=SCL Pin=P1-10
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=P1-9
+Added Net: Name=SDA
+Added Pin To Net: NetName=VIN Pin=P4-1
+Added Net: Name=VIN
+Added Pin To Net: NetName=~3 Pin=P2-4
+Added Net: Name=~3
+Added Pin To Net: NetName=~5 Pin=P2-6
+Added Net: Name=~5
+Added Pin To Net: NetName=~6 Pin=P2-7
+Added Pin To Net: NetName=~6 Pin=U1-6
+Added Net: Name=~6
+Added Pin To Net: NetName=~9 Pin=P1-2
+Added Net: Name=~9
+Added Pin To Net: NetName=~10 Pin=P1-3
+Added Net: Name=~10
+Added Pin To Net: NetName=~11 Pin=P1-4
+Added Pin To Net: NetName=~11 Pin=U1-10
+Added Net: Name=~11
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
