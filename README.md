@@ -23,8 +23,10 @@ A Multi-radio Ad-hoc Network Platform.
 		* bitbake -c cleansstate linux-yocto
 	2. patch:
 		* https://github.com/xyongcn/vanet-radio/blob/master/kernel_driver/0001-default-chan-for-802154.patch
-		* http://www.yoctoproject.org/docs/1.6.1/dev-manual/dev-manual.html#patching-the-kernel
-
+		* Move the patch file to the edison-src/device-software/meta-edison/recipes-kernel/linux/files
+		* vi edison-src/device-software/meta-edison/recipes-kernel/linux/linux-yocto_3.10.bbappend
+		* Add one line at the bottom:
+			* SRC_URI += "file://0001-default-chan-for-802154.patch"
 3. Replace the defconfig for kernel.
 	1. https://github.com/xyongcn/vanet-radio/blob/master/kernel_driver/defconfig
 	2. mv defconfig edison-src/device-software/meta-edison/recipes-kernel/linux/files
