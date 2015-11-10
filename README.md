@@ -41,7 +41,9 @@ https://github.com/xyongcn/vanet-radio/tree/master/kernel_driver
 ## Access and Debug
 1. Bluetooth adb shell for edison:
 	* https://github.com/xyongcn/bt-adb-shell
-	* Note: There has a unsolved problem that the bt-adb-shell cannot transfer files.
+	* Note: The file transmission in the bt-adb-shell is slow.
 
 1. Use the wifi & ssh to transfer files.
+	* fast.
 	* https://software.intel.com/en-us/get-started-edison-linux-step5
+	* Note: The pin 7 will disorder the wifi. So if the sub-1G radio is installed after wifi, you should re-start wifi by ifconfig wlan0 down & up. 
