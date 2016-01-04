@@ -41,7 +41,7 @@ A Multi-radio Ad-hoc Network Platform.
 2. Dowload the cross compile tools corresponding to your system.
 3. Set the tools. Using ubuntu-32bit as an example:
 	* uncompress the file.
-	* source <position of the tools>/1.6.1/environment-setup-core2-32-poky-linux
+	* source \<position of the tools\>/1.6.1/environment-setup-core2-32-poky-linux
 	* echo $CC
 4. $CC -o xxx xxx.c
 	
