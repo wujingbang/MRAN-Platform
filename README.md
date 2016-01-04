@@ -35,6 +35,16 @@ A Multi-radio Ad-hoc Network Platform.
 
 4. Flash the edison.
 
+## Cross-compile Tools
+1. https://software.intel.com/en-us/iot/hardware/edison/downloads
+	* "SDK - Cross Compile Tools Download - Windows* 32-bit,Windows* 64-bit,OS X*,Linux* 32-bit,Linux* 64-bit "
+2. Dowload the cross compile tools corresponding to your system.
+3. Set the tools. Using ubuntu-32bit as an example:
+	* uncompress the file.
+	* source <position of the tools>/1.6.1/environment-setup-core2-32-poky-linux
+	* echo $CC
+4. $CC -o xxx xxx.c
+	
 ## Kernel driver for rf4463f30
 https://github.com/xyongcn/vanet-radio/tree/master/kernel_driver
 
